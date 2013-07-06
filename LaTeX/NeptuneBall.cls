@@ -231,29 +231,8 @@
 %% structure.  This file is at \latex/\gameclassname.cls.
 %%\edef\gamepath{\string${\gameclassname}} %$
 
-% read the environment variable into gamepath
-\newif\ifwindows
-\IfFileExists{nul:}{\windowstrue}{\windowsfalse}
-\ifwindows
-% This should check whether the operating system is Windows, although it may fail in certain cases.
-% See the documentation for the ifplatform package for more details about this approach.
-\begingroup
-\begingroup
-% We redefine a few characters that we want to treat as characters instead of special symbols, and
-% use write18 to create a temporary file that contains a command to define gamepath.
-\catcode`\%=12
-\catcode`/=0
-/catcode`/\=12
-/immediate/write18{echo \begingroup\catcode`\*0> TempWindowsEnvironmentVariable.tex}
-/immediate/write18{echo *catcode`*\=12>> TempWindowsEnvironmentVariable.tex}
-/immediate/write18{echo *noexpand*gdef*gamepath{%/gameclassname%}*endgroup>> TempWindowsEnvironmentVariable.tex}
-/endgroup
-\input{TempWindowsEnvironmentVariable.tex}
-\immediate\write18{del TempWindowsEnvironmentVariable.tex}
-\endgroup
-\else % For OS X and Linux, the old approach just works.
-\edef\gamepath{\string${\gameclassname}} %$
-\fi
+% The following code allows you to create a file named gamename_path.cls.  If that file exists, it will be read and the contents used as the game path.  Otherwise, this uses the environment variables to find the game path.  The file should have only the following line: \edef\gamepath{"path_to_game"}
+\IfFileExists{\gameclassname_path.cls}{\input{\gameclassname_path.cls}}{\edef\gamepath{\string${\gameclassname}}} %$
 
 \def\blues{\gamepath/Bluesheets}
 \def\chars{\gamepath/Charsheets}
