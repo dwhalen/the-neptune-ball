@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  23 JUN 2013 13:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  6 JUL 2013 16:10
 entering extended mode
-**C:/Users/Acata/Desktop/Larps/MermaidGame/Atlantica/Charsheets/King.tex
-(C:/Users/Acata/Desktop/Larps/MermaidGame/Atlantica/Charsheets/King.tex
+**C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,22 +13,9 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\LaTeX\NeptuneBall.cls
-runsystem(echo \begingroup\catcode`\*0> TempWindowsEnvironmentVariable.tex)...e
-xecuted.
-
-runsystem(echo *catcode`*\=12>> TempWindowsEnvironmentVariable.tex)...executed.
-
-runsystem(echo *noexpand*gdef*gamepath{%NeptuneBall%}*endgroup>> TempWindowsEnv
-ironmentVariable.tex)...executed.
-
-
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\Charsheets\TempWindowsEnvir
-onmentVariable.tex)
-runsystem(del TempWindowsEnvironmentVariable.tex)...executed.
-
-
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/LaTeX/gametex.sty
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\LaTeX\NeptuneBall.cls
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\LaTeX\NeptuneBall_path.cls)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/gametex.sty
 Document Class: NeptuneBall 
   --- The Neptune Ball --- NA ---
 \@multicount=\count79
@@ -392,32 +379,31 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/LaTeX/extraction.sty
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/extraction.sty
 \!toks=\toks30
 )
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/LaTeX/parsename.sty
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/parsename.sty
 \*count=\count126
 )
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/LaTeX/datatypes.sty
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/datatypes.sty
 \:count=\count127
 \:toks=\toks31
 )
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/blue-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/green-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/abil-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/combat-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/mem-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/item-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/white-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/notebook-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/money-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/sign-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/subowner-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/gm-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/char-LIST.tex)
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/place-LIST.tex)
-No file C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Lists/run1-LIST.tex
-.
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/blue-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/green-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/abil-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/combat-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/mem-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/item-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/white-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/notebook-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/money-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/sign-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/subowner-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/gm-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/char-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/place-LIST.tex)
+No file "C:/Users/Acata/Desktop/Larps/the-neptune-ball"/Lists/run1-LIST.tex.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
@@ -525,23 +511,23 @@ Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!]
-(C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\/Charsheets/King.tex)
-[2] (C:\Users\Acata\Desktop\Larps\MermaidGame\Atlantica\Charsheets\King.aux) ) 
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex) [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Charsheets\King.aux) ) 
 Here is how much of TeX's memory you used:
- 9485 strings out of 493921
- 112557 string characters out of 3144876
- 241419 words of memory out of 3000000
- 12617 multiletter control sequences out of 15000+200000
+ 9290 strings out of 493921
+ 109778 string characters out of 3144876
+ 240460 words of memory out of 3000000
+ 12428 multiletter control sequences out of 15000+200000
  21708 words of font info for 53 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 45i,13n,53p,1031b,1534s stack positions out of 5000i,500n,10000p,200000b,50000s
-{
-C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)/M
-iKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/f
-onts/type1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
-urw/times/utmri8a.pfb>
-Output written on King.pdf (2 pages, 50346 bytes).
+ 45i,13n,53p,1119b,1534s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/urw/symbol/usyr.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/urw/times/utmr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on King.pdf (2 pages, 50194 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
