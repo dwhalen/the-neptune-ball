@@ -151,14 +151,106 @@
 
 Once you have completed one of the above requirements, you may stand with your hand on the room sign for 30 seconds to enter the room. You may then freely stash items that are stashable, and take items that are in the room.}
 }
+ 
+%Library
+\NEW{Sign}{\sMuseum}{
+  \s\MYname	{The Royal Museum}
+  \s\MYloc	{- 002}
+  \s\MYtext	{This area houses the royal treasury and the royal archives. It is a large, open space with vaulted ceilings and many priceless artifacts scattered among the ancient texts.}
+  \s\MYitems {}
+} 
 
-\NEW{Sign}{\sBrideRoom}{
-  \s\MYname	{A Hotel Room}
-  \s\MYloc	{- 004}
-  \s\MYtext	{The name plaque says {\bf \cBride{\MYname{}}}. 
-  
-  
-  If you have the room key with item {\bf \# 100}, you may enter the room.}
-  \s\MYitems {\iBible{}}
+%Dungeon
+\NEW{Sign}{\sDungeons}{
+  \s\MYname	{The Dungeons}
+  \s\MYloc	{Hallway off - 002}
+  \s\MYtext	{These are the royal dungeons. Party-goers probably shouldn't be in here.}
+  \s\MYitems {}
 }
+
+\NEW{Sign}{\sBarnacles}{
+  \s\MYname	{Barnacles}
+  \s\MYloc	{Hallway off - 002}
+  \s\MYtext	{There is a growth of barnacles on the wall here. The servants have neglected to clear it off. {\bf You may spend 30 seconds scraping one off of the wall. If you do, take one item from the envelope below.}}
+  \s\MYitems {\multi{5}{\iBarnacle{}}}
+} 
+
+%Banquet hall
+\NEW{Sign}{\sBanquetHall}{
+  \s\MYname	{The Banquet Hall}
+  \s\MYloc	{-013}
+  \s\MYtext	{This is the royal banquet hall. No expense was spared in decorating this room with rare shells from across \pAtlantis{}. The banquet will take place here at \cTTwo{}.}
+  \s\MYitems {}
+}
+
+%Explorer's guild
+\NEW{Sign}{\sExplorersDoor}{
+  \s\MYname	{The Explorer's Guild}
+  \s\MYloc	{Hallway near -015}
+  \s\MYtext	{This is an office of the Explorer's Guild in the palace. If you are an Explorer's Guild member, the door recognizes you and lets you pass freely (You may look at the sign under this one immediately.) 
   
+  If you are not an Explorer's Guild member and would like to break in, you may try to beat the lock by decking a hand of 4. (This is a magical lock).}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sExplorersInventory}{
+  \s\MYname	{The Explorer's Guild Inventory}
+  \s\MYloc	{Hallway near -015}
+  \s\MYtext	{This is the inventory of the Explorer's Guild office. You may take any {\bf 1} of the following items by searching through the inventory for a period of time, then crossing it off the list below. If you are an Explorer's Guild member, this action takes 1 minute as the magic of the room aids you. Otherwise, it takes 2 minutes. You may as many items as you like, after fulfilling the time requirement for it.
+  \begin{multicols}{2}
+  \begin{enumerate}
+	\item \iAnglerFish{}
+	\item \iAnglerFish{}
+	\item \iAnglerFish{}
+	\item \iAnglerFish{}
+	\item \iAnglerFish{}
+	\item \iAnglerFish{}
+	\item \iManOfWar{}  (Dangerous)
+	\item \iManOfWar{}  (Dangerous)
+	\item \iManOfWar{}  (Dangerous)
+	\item \iManOfWar{}  (Dangerous)
+	\item \iDeepClam{}
+	\item \iDeepClam{}
+	\item \iElectricEel{}
+	\item \iElectricEel{}
+	  \item \iIceFish{}
+  \item \iIceFish{}
+	\item \iSquid{}
+	\item \iSquid{}
+	\item \iSquid{}
+	\item \iSquid{}
+  \end{enumerate}
+  \end{multicols}
+  If you take one of these items, cross it off of the list above. It is immediate apparent to anyone in this room what has been taken.
+  }
+  \s\MYitems {\iIceFish{} \iIceFish{} \multi{4}{\iSquid{}} \multi{6}{\iAnglerFish{}} \iElectricEel{} \iElectricEel{} \iDeepClam{} \iDeepClam{} \multi{4}{\iManOfWar{}}}
+}
+
+%caves
+\NEW{Sign}{\sCaves}{
+  \s\MYname	{The Caves}
+  \s\MYloc	{-015}
+  \s\MYtext	{This is a set of caves that are on the palace grounds but not part of the palace themselves. Party-goers should have no business here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sUrchins}{
+  \s\MYname	{The Caves}
+  \s\MYloc	{-015}
+  \s\MYtext	{This is a set of caves that are on the palace grounds but not part of the palace themselves. Party-goers should have no business here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sSnails}{
+  \s\MYname	{The Caves}
+  \s\MYloc	{-015}
+  \s\MYtext	{This is a set of caves that are on the palace grounds but not part of the palace themselves. Party-goers should have no business here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPearl}{
+  \s\MYname	{A bed of clams}
+  \s\MYloc	{-015}
+  \s\MYtext	{There are a bed of clams here. {\bf You may spend 1 minute to  break open one of the clams.} To do so, take one of the clams from the envelope below and open it after 1 minute has passed.}
+  \s\MYitems {\multi{9}{\iClam{}} \iPearlClam{}}
+}
