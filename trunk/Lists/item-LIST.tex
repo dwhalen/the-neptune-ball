@@ -32,6 +32,8 @@
   \append\MYmark{ ~PROP~ }}
 \def\unstash{%
   \append\MYmark{ ~UNSTASHABLE~ }}
+\def\val{%
+  \append\MYmark{ ~VALUABLE~ }}
 \def\bulky#1{%
   \s\MYbulky{#1}%
   \append\MYmark{\mbox{ ~\MYbulky-Hand~Bulky~ }}}
@@ -164,7 +166,7 @@
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
+%Big Items
 
 \NEW{Item}{\iTrident}{
   \s\MYname	{The Trident}
@@ -209,6 +211,7 @@
   \s\MYtext	{The eyes of the carved face glow with an other-worldly light.}
 }
 
+%%For magician induction
 \NEW{Item}{\iChalk}{
   \s\MYname	{Runic Chalk}
   \s\MYnumber	{999}
@@ -261,7 +264,6 @@
   \s\MYtext	{This is a vial of ice fish blood from the antarctic.}
 }
 
-
 \NEW{Item}{\iSquid}{
   \s\MYname	{Squid Tentacle}
   \s\MYnumber	{999}
@@ -306,4 +308,11 @@
   \s\MYnumber	{999}
   \s\MYtext	{Open if you break}
   \s\MYcontents	{There is a pearl here. Take the \iPearl{} item from the $\alpha$ packet behind this sign.}
+}
+
+\NEW{Item}{\iPearl}{
+  \s\MYname	{Black Pearl}
+  \s\MYnumber {999}
+  \s\MYtext	{This pearl is the size of a quarter and flawless. It is extremely rare and valuable.}
+  \val{}
 }
