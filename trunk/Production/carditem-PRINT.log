@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  6 JUL 2013 16:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  8 FEB 2014 18:02
 entering extended mode
 **C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
@@ -403,39 +403,219 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/gm-LIST.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/char-LIST.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/place-LIST.tex)
-Runaway argument?
-{ \s \MYname {Indisia} \par \par \NEW {Place}{\pAssassin }{ \s \MYname \ETC.
-! File ended while scanning use of \NEW.
-<inserted text> 
-                \par 
-\@inputinputs ...ar \input \lists /place-LIST.tex 
-                                                  \par \ifnum \gamerun >0 \@...
+No file "C:/Users/Acata/Desktop/Larps/the-neptune-ball"/Lists/run1-LIST.tex.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip46
+\f@ncyO@elh=\skip47
+\f@ncyO@erh=\skip48
+\f@ncyO@olh=\skip49
+\f@ncyO@orh=\skip50
+\f@ncyO@elf=\skip51
+\f@ncyO@erf=\skip52
+\f@ncyO@olf=\skip53
+\f@ncyO@orf=\skip54
+)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/cards.sty
+\front_card=\box60
+\back_card=\box61
+\front_box=\box62
+\back_box=\box63
+\front_page=\box64
+\back_page=\box65
+\scratch_dimen=\dimen141
+)
+\packetspace=\dimen142
+\packetwidth=\dimen143
+\text@box=\box66
+\trig@box=\box67
+\text@ht=\dimen144
+\trig@ht=\dimen145
+\tot@ht=\dimen146
+\par@wd=\dimen147
+\bookwidth=\dimen148
+\bookheight=\dimen149
+\temp@dimen=\dimen150
+\temp@box=\box68
+\itemheight=\dimen151
+\itemwidth=\dimen152
+\whitespace=\dimen153
+\shadesep=\dimen154
+\temp@dimen=\dimen155
+\temp@box=\box69
 
-\o,fullsheet ... {--> fullsheet}\Exec@pt {}\do@pt 
-                                                   \oddsidemargin -.75in \ev...
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 3.
 
-\o,cardsheet ...--> cardsheet}\Exec@pt {fullsheet}
-                                                  \do@pt  \par \par \advance...
 
-\o,packet ...sage {--> packet}\Exec@pt {cardsheet}
-                                                  \do@pt \DoubleCards \Doubl...
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
+File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
+)
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
 
-\o,items ...}\message {--> items}\Exec@pt {packet}
-                                                  \do@pt \DoubleCards \Doubl...
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.99994pt on input line 3.
 
-\o,carditems ...ge {--> carditems}\Exec@pt {items}
-                                                  \do@pt \gdef \mytype {Card...
-<argument> ...currname .\@currext -h@@k\endcsname 
-                                                  \expandafter \let \csname ...
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count128
+\scratchdimen=\dimen156
+\scratchbox=\box70
+\nofMPsegments=\count129
+\nofMParguments=\count130
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count131
+\MPscratchDim=\dimen157
+\MPnumerator=\count132
+\makeMPintoPDFobject=\count133
+\everyMPtoPDFconversion=\toks33
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 4.49997pt on input line 5.
+ (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Princess.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Ariel.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Diplomat.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanSpy.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Shapeshifter.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Urchin.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanPrince.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Athena.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Slave.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/KingsBrother.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/SeaWitch.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Manta.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 8.99994pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 5.
+LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 5.
 
-\@secondoftwo #1#2->#2
-                      
-\reserved@a ... \@undefined \@unprocessedoptions }
-                                                   \@ifl@ter \@currext {Nept...
 
-\reserved@a ...all[{carditems}][{}]\@clsextension 
-                                                  \@documentclasshook 
-...
-l.3 \begin
-          {document}
-? 
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
+File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 5.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
+File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+psycm on input line 5.
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
+File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 5.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 5.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 5.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 10.79993pt on input line 5.
+
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 8.09995pt on input line 5.
+
+[1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+
+] [2]
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Bodyguard.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Willow.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 7.19995pt on input line 5.
+
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux) )
+ 
+Here is how much of TeX's memory you used:
+ 9285 strings out of 493921
+ 112469 string characters out of 3144876
+ 233480 words of memory out of 3000000
+ 12365 multiletter control sequences out of 15000+200000
+ 25603 words of font info for 57 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 48i,13n,53p,1470b,1471s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on carditem-PRINT.pdf (12 pages, 32641 bytes).
+PDF statistics:
+ 50 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
