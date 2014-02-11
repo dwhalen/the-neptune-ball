@@ -269,13 +269,6 @@ Once you have completed one of the above requirements, you may stand with your h
   \s\MYitems {}
 }
 
-\NEW{Sign}{\sUrchins}{
-  \s\MYname	{The Caves}
-  \s\MYloc	{-015}
-  \s\MYtext	{This is a set of caves that are on the palace grounds but not part of the palace themselves. Party-goers should have no business here.}
-  \s\MYitems {}
-}
-
 \NEW{Sign}{\sSnails}{
   \s\MYname	{The Caves}
   \s\MYloc	{-015}
@@ -283,10 +276,10 @@ Once you have completed one of the above requirements, you may stand with your h
   \s\MYitems {}
 }
 
-\NEW{Sign}{\sPearl}{
+\NEW{Sign}{\sClamBed}{
   \s\MYname	{A bed of clams}
   \s\MYloc	{-015}
-  \s\MYtext	{There are a bed of clams here. {\bf You may spend 1 minute to  break open one of the clams.} To do so, take one of the clams from the envelope below and open it after 1 minute has passed.}
+  \s\MYtext	{There are a bed of clams here. {\bf You may spend 1 minute to  break open one of the clams.} To do so, take one of the clams from the envelope below and open it after {\bf 1 minute} has passed.}
   \s\MYitems {\multi{9}{\iClam{}} \iPearlClam{}}
 }
 
@@ -298,11 +291,69 @@ Once you have completed one of the above requirements, you may stand with your h
 }
 
 %Residential Wing
+\NEW{Sign}{\sResidences}{
+  \s\MYname	{The Residential Wing of the Palace}
+  \s\MYloc	{-030}
+  \s\MYtext	{This is the Residential Wing of the palace. The suite for the royal family, and many of their long term guests are found in this area.}
+  \s\MYitems {}
+}
+
 
 %Garden
+\NEW{Sign}{\sGardens}{
+  \s\MYname	{The Palace Gardens}
+  \s\MYloc	{-032}
+  \s\MYtext	{These are the royal gardens. They are some of the most beautiful in all of \pAtlantis{}. It is a nice quiet place to talk, or take a stroll.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sSeaFans}{
+  \s\MYname	{A Rocky Outcropping}
+  \s\MYloc	{-032}
+  \s\MYtext	{There are many beautiful sea fans, coral and other ocean flora and fauna on this rock. It has clearly been carefully manicured for the palace.
+  
+  If you would like to take something from the garden, you may spend {\bf 30 seconds} with one hand the sign, and then take an item of your choosing.
+  
+  (The items available at this sign are essentially unlimited. If the envelope is empty, tell a GM.)}
+  \s\MYitems {\multi{20}{\iSeaFan}}
+}
 
 %Pacifican Embassy
+\NEW{Sign}{\sEmbassy}{
+  \s\MYname	{The Pacifican Embassy}
+  \s\MYloc	{-004}
+  \s\MYtext	{This is the suite dedicated to the Pacifican delegates. It has been set up in some haste, but there are plans to establish a permanent embassy once the treaty is signed.}
+  \s\MYitems {}
+}
 
 %Kitchen
+\NEW{Sign}{\sKitchen}{
+  \s\MYname	{The Palace Kitchens}
+  \s\MYloc	{Across -004}
+  \s\MYtext	{These are the royal kitchens. Everything is in chaos due to the banquet.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sSeaSnake}{
+  \s\MYname	{A jar of Sea Snake Tails}
+  \s\MYloc	{Across -004}
+  \s\MYtext	{There is a jar of snake tails on the counter here. They are a handy snack on the go, although some merfolk don't like the aftertaste.
+  
+  If you would like to take \iSeaSnake{}, you may spend {\bf 30 seconds} with one hand the sign, and then take one.
+  
+  (The items available at this sign are essentially unlimited. If the envelope is empty, tell a GM.)}
+  \s\MYitems {\multi{20}{\iSeaSnake}}
+}
+
+\NEW{Sign}{\sSwordfishMeat}{
+  \s\MYname	{A Meat Locker}
+  \s\MYloc	{Across -004}
+  \s\MYtext	{There is a Meat Locker here. It is used for keeping fish fillets cold.
+  
+  If you would like to take something from the locker, you may spend {\bf 1 minute} with one hand the sign, and then take an item of your choosing.
+  }
+  \s\MYitems {\multi{5}{\iSwordfish}}
+}
+
 
 %GM / oog signs
