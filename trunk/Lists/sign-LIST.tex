@@ -195,6 +195,53 @@ Once you have completed one of the above requirements, you may stand with your h
   \s\MYitems {}
 } 
 
+\NEW{Sign}{\sArtifactThree}{
+  \s\MYname	{Cassandra's Mirror} %%Diana is the greek goddess of the moon
+  \s\MYloc	{- 002}
+  \s\MYtext	{This is the pedestal display for \iScryingMirror{}.
+  
+   \emph{You can hit this display with a CR 6+ attack to break the glass protecting the mirror. If you do, take \iScryingMirror{} from the envelope below and swap this sign with the one under it.}}
+
+  \s\MYitems {\iScryingMirror{}}
+} 
+
+\NEW{Sign}{\sArtifactThreeBroken}{
+  \s\MYname	{Shattered Pedestal}
+  \s\MYloc	{- 002}
+  \s\MYtext	{This shattered pedestal once held \iScryingMirror{}. It has been destroyed and the treasure stolen.}
+  \s\MYitems {}
+} 
+
+\NEW{Sign}{\sBookshelf}{
+  \s\MYname	{A Bookshelf}
+  \s\MYloc	{- 002}
+  \s\MYtext	{This is a bookshelf. There are many books here for perusal, both casual and intense.}
+  \s\MYitems {}
+} 
+
+\NEW{Sign}{\sBookshelfBook}{
+  \s\MYname	{A Bookshelf}
+  \s\MYloc	{- 002}
+  \s\MYtext	{This is a bookshelf. There are many books here for perusal, both casual and intense.
+  
+  {\bf You may only take an item from this bookshelf if your $\alpha$ score is 2.}
+  
+  If you would like to take a book from the bookshelf, place both hands on this sign for 30 seconds.}
+  \s\MYitems {\iBook{}}
+}  
+
+\NEW{Sign}{\sBlackboard}{
+  \s\MYname	{Magical Runic Circle}
+  \s\MYloc	{-015}
+  \s\MYtext	{A blackboard with a few scribbles on it. Nothing too interesting.
+  
+  {\bf You may only interact with this sign if you have an $\alpha$ score of 2.}
+  
+  If you would like to take an item from this sign, place both hands on it for 30 seconds.
+  \s\MYitems {\multi{5}{\iChalk{}}}
+  }
+}
+
 %Dungeon
 \NEW{Sign}{\sDungeons}{
   \s\MYname	{The Dungeons}
@@ -248,7 +295,8 @@ Once you have completed one of the above requirements, you may stand with your h
 	\item \iDeepClam{}
 	\item \iElectricEel{}
 	\item \iElectricEel{}
-	  \item \iIceFish{}
+	\item \iElectricEel{}
+	\item \iIceFish{}
   \item \iIceFish{}
 	\item \iSquid{}
 	\item \iSquid{}
@@ -259,6 +307,15 @@ Once you have completed one of the above requirements, you may stand with your h
   If you take one of these items, cross it off of the list above. It is immediate apparent to anyone in this room what has been taken.
   }
   \s\MYitems {\iIceFish{} \iIceFish{} \multi{4}{\iSquid{}} \multi{6}{\iAnglerFish{}} \iElectricEel{} \iElectricEel{} \iDeepClam{} \iDeepClam{} \multi{4}{\iManOfWar{}}}
+}
+
+\NEW{Sign}{\sPileOfMaps}{
+  \s\MYname	{A Big, Disorderly Pile of Maps}
+  \s\MYloc	{Hallway near -015}
+  \s\MYtext	{There is a big pile of maps in the corner here. They have clearly been thrown there without much care to their order. 
+  
+  {\bf You may not interact with this sign unless you know otherwise}}
+  \s\MYitems {\iMapOfIndia{} \iMapOfAtlantica{} \iMapOfPacifica{}}
 }
 
 %caves
@@ -288,6 +345,20 @@ Once you have completed one of the above requirements, you may stand with your h
   \s\MYloc	{-015}
   \s\MYtext	{You may only take the item from the $\alpha$ packet below if you have been directed to do so by a mechanic. If you do so, remove this sign and accompanying envelope.}
   \s\MYitems {\iPearl{}}
+}
+
+\NEW{Sign}{\sCrest}{
+  \s\MYname	{The Magician's Guild Crest.}
+  \s\MYloc	{-015}
+  \s\MYtext	{The Crest of the now dissolved Magician's Guild has been hung on the cave wall here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sRunicCircle}{
+  \s\MYname	{Magical Runic Circle}
+  \s\MYloc	{-015}
+  \s\MYtext	{A runic circle is inscribed on the ground here.}
+  \s\MYitems {}
 }
 
 %Residential Wing
