@@ -101,44 +101,44 @@
   }
 
 \NEW{MemPage}{\mExplosionPageOne}{
-  \s\MYname	{Open when 30 minutes pass in game.}
-  \s\MYtext	{Go “not here” for 5 minutes. You can still hear and see everything around you, but cannot interact with it in any way. At the end of this time, increase your $\alpha$ score by 1.}
+  \s\MYname	{Open when 30 minutes pass in game if your $\Beta$ is 1.}
+  \s\MYtext	{Go “not here” for 5 minutes - you are invisible and intangible. You can still hear and see everything around you, but cannot interact with it in any way.}
   }
 
 \NEW{MemPage}{\mExplosionPageTwo}{
-  \s\MYname	{Open when 1 hour passes in game.}
-  \s\MYtext	{Go mute for 10 minutes. At the end of this time, increase your $\alpha$ score by 1.}
+  \s\MYname	{Open when 1 hour passes in game if your $\Beta$ is 1.}
+  \s\MYtext	{Go mute for 10 minutes. At the end of this time, increase your $\alpha$ score to 2.}
   }
 
 \NEW{MemPage}{\mExplosionPageThree}{
-  \s\MYname	{Open when 1.5 hours pass in game.}
+  \s\MYname	{Open when 1.5 hours pass in game if your $\Beta$ is 1.}
   \s\MYtext	{You go blind for 2 minutes. You can blink your eyes open long enough to find a wall, but after that you must keep your eyes closed for 2 minutes.}
 }
 
 \NEW{MemPage}{\mExplosionPageFour}{
-  \s\MYname	{Open when the banquet starts}
-  \s\MYtext	{A group of friendly spirits that only you can see appear out of thin air and smile down at you. You can use them to heal any wounded person or to break any attack based restraint with a 30-count, after which they are totally fine. You can use this ability on yourself or someone else even if you are restrained or wounded yourself. Increase your alpha by 1.}
+  \s\MYname	{Open when the banquet starts if your $\Beta$ is 1.}
+  \s\MYtext	{A group of friendly spirits that only you can see appear out of thin air and smile down at you. You can use them to heal any wounded person or to break any attack based restraint with a 30-count, after which they are totally fine. You can use this ability on yourself or someone else even if you are restrained or wounded yourself.}
 }
 
 \NEW{MemPage}{\mExplosionPageFive}{
-  \s\MYname	{Open when 2.5 hours pass in game.}
-  \s\MYtext	{The friendly spirits have turned into demons dripping with blood! They’re out to kill you. run! Roleplay accordingly. If you are forced to stop moving (remember your run away ability), you are knocked out. After a minute, the ghosts dissipate. Increase your alpha by 1. }
+  \s\MYname	{Open when 2.5 hours pass in game if your $\Beta$ is 1.}
+  \s\MYtext	{The friendly spirits have turned into demons dripping with blood! They’re out to kill you. run! Roleplay accordingly. If you are forced to stop moving (remember your \aRunAway{} ability), you are knocked out. After a minute, the ghosts dissipate.}
 }
 
 \NEW{MemPage}{\mExplosionPageSix}{
-  \s\MYname	{Open when 3 hours pass in game.}
-  \s\MYtext	{Bolts of purple fire stream from your eyes and perform a CR 5 wound attack on the first two people you see (unassistable). If you can’t see two people, run around until you do. Tell people out of game that this is clearly beyond your control. Increase your alpha by 1.
+  \s\MYname	{Open when 3 hours pass in game if your $\Beta$ is 1.}
+  \s\MYtext	{Bolts of purple fire stream from your eyes and perform a CR 5 wound attack on the first two people you see (unassistable). If you can’t see two people, run around until you do. Tell people out of game that this is clearly beyond your control.
 
 This is really serious. You need to find help for these people, and help for yourself, fast.}
 }
 
 \NEW{MemPage}{\mExplosionPageSeven}{
-  \s\MYname	{Open when 3.5 hours pass in game.}
+  \s\MYname	{Open when 3.5 hours pass in game if your $\Beta$ is 1.}
   \s\MYtext	{You explode in a burst of radiant fireballs. You wound everyone within 3 ZOC of you (this is not considered combat, and cannot be resisted). Your body doesn’t exist anymore, so carry all of your items out of game and fill out a death report.}
 }
 
-\NEW{MemEnvelope}{\mDreamControllerPacket}{
-  \s\MYname	{$\Delta$ Packet}
-  \s\MYtext	{You know how to use the existing technology within the simulation to make the dream controller, a device that can get you out of the simulation.}
-  \s\MYabils	{\aMakeDreamController{}}
-  }
+\NEW{MemEnvelope}{\mREnvelope}{
+  \s\MYname	{$\R$ Envelope}
+  \s\MYtext	{Open when instructed to.}
+  \s\MYabils	{\aSummonGuards{}}
+}
