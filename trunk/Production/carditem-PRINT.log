@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  8 FEB 2014 18:02
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  8 APR 2014 22:41
 entering extended mode
 **C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
@@ -489,29 +489,23 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 4.49997pt on input line 5.
  (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Princess.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Urchin.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Ariel.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Diplomat.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanSpy.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Shapeshifter.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Urchin.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanPrince.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Athena.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Slave.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/KingsBrother.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/SeaWitch.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Manta.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex)
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
-(Font)              scaled to size 8.09995pt on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 8.99994pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 7.19995pt on input line 5.
 LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 5.
 
@@ -553,6 +547,14 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 8.09995pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <12> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 10.79993pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
+(Font)              scaled to size 7.19995pt on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 5.
 
 (C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
@@ -573,7 +575,12 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 
 ] [2]
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Bodyguard.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Manta.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Bodyguard.tex) 
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Willow.tex)
 (C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
 [1
@@ -591,11 +598,50 @@ Non-PDF special ignored!
 [1
 
 ] [2]
-LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <8> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
-LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
-(Font)              scaled to size 7.19995pt on input line 5.
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
 (C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
 [1
 
@@ -603,19 +649,19 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux) )
  
 Here is how much of TeX's memory you used:
- 9285 strings out of 493921
- 112469 string characters out of 3144876
- 233480 words of memory out of 3000000
- 12365 multiletter control sequences out of 15000+200000
+ 10032 strings out of 493921
+ 120302 string characters out of 3144876
+ 256376 words of memory out of 3000000
+ 13088 multiletter control sequences out of 15000+200000
  25603 words of font info for 57 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 48i,13n,53p,1470b,1471s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,13n,53p,1470b,1491s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on carditem-PRINT.pdf (12 pages, 32641 bytes).
+Output written on carditem-PRINT.pdf (36 pages, 58497 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
