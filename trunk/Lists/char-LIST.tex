@@ -68,9 +68,10 @@
   \FD\MYdesc	{} %% badge description
 
   \newstat\MYcr	{Combat Rating}{CR}{2} %% for DarkWater-style combat
-  \newstat\MYomega	{$\Omega$}{$\Omega$}{0} % Corruption
-  \newstat\MYbeta	{$\beta$}{$\beta$}{0} % Radiation
-
+  \newstat\MYomega	{$\Gamma$}{$\Omega$}{0} % Underground connections
+  \newstat\MYbeta	{$\beta$}{$\beta$}{0} % Emotional stats
+  %\newstat\MYalpha	{$\alpha$}{$\alpha$}{0} % Emotional stats
+  \newstat\MYtarot	{Tarot}{Tarot}{N/A} % Required Tarot Card
 
   \FD\MYsex	{\male} %% \male, \female, \neuter, \ambiguous
   \FD\MYrole	{} %% playerlist role
@@ -207,8 +208,9 @@
 %  }
 
 %%Alpha scores - magician
-%%Beta scores - willow timer
-%%Gamma scores - Underworld (allows hermes access to certain info
+%%Beta scores - willow timer; triton's depression; 
+%%Gamma scores - Underworld (allows hermes access to certain info)
+%%Tarot score - what is the 3rd card needed for tarot readings
   
 \NEW{PC}{\cKing}{
    \s\MYname	{Triton}
@@ -224,8 +226,9 @@
   \s\MYwhites	{}
   \s\MYmems {}
   
-  \s\MYomega	{12} % Corruption
+  %\s\MYomega	{12} % Corruption
   \s\MYbeta	{1}
+  \s\MYtarot {Horse}
   \s\MYcr	{2}
 }  
 
@@ -298,7 +301,7 @@
   \s\MYabils	{}
   \s\MYitems	{}
   \s\MYwhites	{}
-  \s\MYmems {}
+  \s\MYmems {\mTarot{}}
   
   \s\MYomega	{12} % Corruption
   \s\MYbeta	{1}
