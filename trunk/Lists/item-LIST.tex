@@ -256,29 +256,6 @@
   \bulky{1}
 }
 
-
-%%Potions!!
-\NEW{ItemFold}{\iLatentPoison}{
-  \s\MYname	{A Green Potion}
-  \s\MYnumber	{999}
-  \s\MYtext	{Open if you consume}
-  \s\MYcontents	{Go ``Not Here'' and bring this item to a GM immediately.}
-  }
-
-\NEW{ItemFold}{\iDeadlyPoison}{
-  \s\MYname	{A Black Potion}
-  \s\MYnumber	{999}
-  \s\MYtext	{Open if you consume}
-  \s\MYcontents	{Go ``Not Here'' and bring this item to a GM immediately.}
-}
-
-\NEW{ItemFold}{\iShapeshifterPotion}{
-  \s\MYname	{A Gold Potion}
-  \s\MYnumber	{999}
-  \s\MYtext	{Open if you consume}
-  \s\MYcontents	{You have been transformed into a Shapeshifter! Go retrieve the \aRevealed{} ability card, the \iShapeshifterSpell{} magical effect, and a green headband from \sRevealed{} in the \pBanquet{}. Do not put on the headband until told to do so.}
-}
-
 %%Items in Library
 
 \NEW{Item}{\iSponge}{
@@ -463,6 +440,61 @@
   \val{}
 }
 
+%%Potions!!
+\NEW{ItemEnvelope}{\iHealingPotion}{
+  \s\MYname	{A Red Liquid in a Bottle}
+  \s\MYnumber	{999}
+  \s\MYtext	{open if you drink}
+  \s\MYcontents	{If you are knocked out or wounded, wake up in 10 seconds, with no ill effects. If you are healthy, nothing happens.}
+}
+
+\NEW{ItemEnvelope}{\iPoison}{
+  \s\MYname	{A Green Liquid in a Bottle}
+  \s\MYnumber	{999}
+  \s\MYtext	{open if you drink}
+  \s\MYcontents	{You have been poisoned! You are slightly nauseous, now mute, and will die in 10 minutes if you do not receive {\bf medical attention AND consume a healing potion}. As soon as you do both of these things, you are cured-- you won't die and are no longer mute.}
+}
+
+\NEW{ItemEnvelope}{\iTransformationPotion}{
+  \s\MYname	{An Orange Liquid in a Bottle}
+  \s\MYnumber	{999}
+  \s\MYtext	{open if you drink}
+  \s\MYcontents	{You have been transformed from a mer-person to a human or vice versa. If necessary, acquire a green headband from \pBanquet{}. Your CR is {\bf reduced by one} (your CR cannot go below zero).}
+  \s\MYitems {\iTransformed{}}
+}
+
+\NEW{ItemEnvelope}{\iDeadlyPoison}{
+  \s\MYname	{A Black Liquid in a Bottle}
+  \s\MYnumber	{999}
+  \s\MYtext	{open if you drink}
+  \s\MYcontents	{You have been poisoned! The poison is very powerful and will kill you in 10 minutes. Since you are moderately nauseous, your CR drops to zero (and cannot be increased) and you must walk heel to toe. Only an exceptionally powerful magical artifact (\iWishingStone{\MYnumber}) can save you. Using this item to heal you will {\bf consume} the item.}
+}
+
+\NEW{ItemEnvelope}{\iBuffPotion}{
+  \s\MYname	{A Blue Liquid in a Bottle}
+  \s\MYnumber	{999}
+  \s\MYtext	{open if you drink}
+  \s\MYcontents	{Your CR increases by 2 for 10 minutes.}
+}
+
+\NEW{ItemEnvelope}{\iShapeshifterPotion}{
+  \s\MYname	{A Gold Liquid in a Bottle}
+  \s\MYnumber	{999}
+  \s\MYtext	{open if you drink}
+  \s\MYcontents	{You have been transformed into a Shapeshifter! Retrieve a green headband from \sRevealed{} in the \pBanquet{}. Do not put on the headband until told to do so.}
+  \s\MYabils {\aRevealed{}}
+  \s\MYitems {\iShapeshifterSpell{}}
+}
+
+\NEW{ItemEnvelope}{\iLovePotion}{
+  \s\MYname	{A Purple Liquid in a Bottle}
+  \s\MYnumber	{999}
+  \s\MYtext	{open if you drink}
+  \s\MYcontents	{You are madly in love with \cWitch{} and are compelled to obey \cWitch{\their} every command. You only want to make them happy. You can't stand the thought of \cWitch{\their} being mad at you. You gain the goal: ``Find some way to remain with \cWitch{} once the ball concludes.''}
+  \s\MYitems {\iLoveSpell{}}
+  \s\MYmems{\mLovePacket{}}
+}
+
 % Spell effects
 
 \NEW{Item}{\iEnslavementSpell}{
@@ -472,10 +504,17 @@
   \effect{}
 }
 
-\NEW{Item}{\iShapeshifterSpell}{
-  \s\MYname	{Shapeshifted}
+\NEW{Item}{\iLoveSpell}{
+  \s\MYname	{Madly in Love}
   \s\MYnumber {999}
-  \s\MYtext	{Level 6. This spell effect is what has turned you into a shapeshifter. If this magical effect is removed by any means, reverse all effects of being turned into a shapeshifter.).}
+  \s\MYtext	{Level 4. This spell prevents you from going against the will of your lover. You may not act in any way that would directly harm your lover, including speaking ill of them. You also may not act in any way that would work towards revealing that you are ensorcelled (you must attempt to resist magical searches from anyone other than your lover). {\bf The effect of this spell is not unpleasant and you have no desire to break it.}}
+  \effect{}
+}
+
+\NEW{Item}{\iTransformed}{
+  \s\MYname	{Transformed}
+  \s\MYnumber {999}
+  \s\MYtext	{Level 4. This spell effect is what has transformed you into a different species. If this magical effect is removed by any means, reverse all effects of being turned into a human or mer-person.).}
   \effect{}
 }
 
