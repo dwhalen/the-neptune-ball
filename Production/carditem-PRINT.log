@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  8 APR 2014 22:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  22 APR 2014 23:42
 entering extended mode
 **C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
@@ -492,13 +492,6 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Urchin.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Ariel.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Diplomat.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanSpy.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Shapeshifter.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanPrince.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Athena.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Slave.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/KingsBrother.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/SeaWitch.tex)
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
@@ -575,7 +568,29 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 
 ] [2]
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Manta.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanSpy.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Shapeshifter.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanPrince.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Athena.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Slave.tex)
+! item card oversized
+! item card oversized
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/KingsBrother.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/SeaWitch.tex) (
+C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Manta.tex)
 (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex)
 (C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
 [1
@@ -646,22 +661,26 @@ Non-PDF special ignored!
 [1
 
 ] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
 (C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux) )
  
 Here is how much of TeX's memory you used:
- 10032 strings out of 493921
- 120302 string characters out of 3144876
- 256376 words of memory out of 3000000
- 13088 multiletter control sequences out of 15000+200000
+ 10772 strings out of 493921
+ 127266 string characters out of 3144876
+ 276750 words of memory out of 3000000
+ 13818 multiletter control sequences out of 15000+200000
  25603 words of font info for 57 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 48i,13n,53p,1470b,1491s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 48i,13n,53p,1470b,1660s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
 Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x
 86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on carditem-PRINT.pdf (36 pages, 58497 bytes).
+Output written on carditem-PRINT.pdf (46 pages, 68347 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
