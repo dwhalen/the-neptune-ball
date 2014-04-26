@@ -68,7 +68,7 @@
   \FD\MYdesc	{} %% badge description
 
   \newstat\MYcr	{Combat Rating}{CR}{2} %% for DarkWater-style combat
-  \newstat\MYomega	{$\Gamma$}{$\Omega$}{0} % Underground connections
+  \newstat\MYomega	{$\gamma$}{$\gamma$}{0} % Underground connections
   \newstat\MYbeta	{$\beta$}{$\beta$}{0} % Emotional stats
   %\newstat\MYalpha	{$\alpha$}{$\alpha$}{0} % Emotional stats
   \newstat\MYtarot	{Tarot}{Tarot}{N/A} % Required Tarot Card
@@ -221,15 +221,16 @@
    \s\MYnumber	{531}
    \s\MYdesc     {An elderly merman with a completely white beard}   
   
-  \s\MYblues	{}
-  \s\MYgreens	{}
-  \s\MYabils	{\aFirstAid{}}
+  \s\MYblues	{\bAtlantican{}}
+  \s\MYgreens	{\gDecking{} \gTreaty{}}
+  \s\MYabils	{\aFirstAid{} \aSummonGuards{} \aMerengue{}}
   \s\MYitems	{\iTrident{}} 
-  \s\MYwhites	{}
-  \s\MYmems {}
+  \s\MYwhites	{\wTreaty{}}
+  \s\MYmems {\mDepression{}}
   
   \s\MYtarot {Judgement}
   \s\MYcr	{2}
+  \s\MYbeta {6}
 }  
 
 \NEW{PC}{\cQueen}{ 
@@ -239,10 +240,10 @@
    \s\MYnumber	{580}
    \s\MYdesc     {}   
   
-  \s\MYblues	{}
-  \s\MYgreens	{}
-  \s\MYabils	{}
-  \s\MYitems	{}
+  \s\MYblues	{\bAtlantican{} \bAssassin{}}
+  \s\MYgreens	{\gDecking{}}
+  \s\MYabils	{\aMerengue{} \aRemoveDisguise{}}
+  \s\MYitems	{\iMusicBoxKey{}}
   \s\MYwhites	{}
   \s\MYmems {}
   
@@ -389,7 +390,7 @@
   \s\MYabils	{\aLesserDispel{} \aPerceive{} \aTeleport{}}
   \s\MYitems	{}
   \s\MYwhites	{\wInheritance{}}
-  \s\MYmems {\mREnvelope{} \mQPacketManta}
+  \s\MYmems {\mREnvelope{} \mQPacketManta{}}
   
   \s\MYtarot {The Emporer}
   \s\MYcr	{2}
