@@ -216,12 +216,6 @@ DEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATH
   \s\MYtext	{Your salvation lies in the hands of a human.}
 }
 
-\NEW{MemEnvelope}{\mREnvelope}{
-  \s\MYname	{R Envelope}
-  \s\MYtext	{Open only when instructed to.}
-  %%\s\MYabils	{\aSummonGuards{}}
-}
-
 %%King Triton's Mem-notebook
 \NEW{MemCover}{\mDepression}{
   \s\MYname	{Depression Packet}
@@ -285,10 +279,21 @@ DEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATHDEATH
 %The Queen!
 \NEW{MemFold}{\mQPacketGeneric}{
   \s\MYname	{Open if you see a purple headband}
-  \s\MYtext	{Holy shit! That's \cQueen{\King} \cQueen{\MYname}! \cQueen{\They}'s been missing for 21 years!}
+  \s\MYtext	{Holy shit! That's \cQueen{\King} \cAthena{}! \cQueen{\They}'s been missing for 21 years!}
  }
 
 \NEW{MemFold}{\mQPacketManta}{
   \s\MYname	{Open if you see a purple headband}
   \s\MYtext	{Damn, \cQueen{\they}'s revealed \cQueen{\their}self. This will make it much harder to get rid of \cQueen{\their}...}
  }
+ 
+\NEW{MemFold}{\mQPacketGladius}{
+  \s\MYname	{Open if you see a purple headband}
+  \s\MYtext	{Oh shit. \cQueen{} has revealed herself as \cAthena{}. \cKing{} is going to be pissed, and you may very well lose her}
+ }
+ 
+\NEW{MemEnvelope}{\mREnvelope}{
+  \s\MYname	{R Envelope}
+  \s\MYtext	{Open only when instructed to.}
+  \s\MYabils	{\aSummonGuards{}}
+}
