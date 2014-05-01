@@ -68,9 +68,9 @@
   \FD\MYdesc	{} %% badge description
 
   \newstat\MYcr	{Combat Rating}{CR}{2} %% for DarkWater-style combat
-  \newstat\MYomega	{$\gamma$}{$\gamma$}{0} % Underground connections
+  \newstat\MYgamma	{$\gamma$}{$\gamma$}{0} % Underground connections
   \newstat\MYbeta	{$\beta$}{$\beta$}{0} % Emotional stats
-  %\newstat\MYalpha	{$\alpha$}{$\alpha$}{0} % Emotional stats
+  \newstat\MYalpha	{$\alpha$}{$\alpha$}{0} % Magical stats
   \newstat\MYtarot	{Tarot}{Tarot}{N/A} % Required Tarot Card
 
   \FD\MYsex	{\male} %% \male, \female, \neuter, \ambiguous
@@ -285,6 +285,7 @@
   
   \s\MYtarot {Justice}
   \s\MYcr	{2}
+	\s\MYalpha	{2}
 }
 
 \NEW{PC}{\cSlave}{ %% Eric and Ariel know him by the name Joreth (he is in disguise right now)
@@ -321,6 +322,7 @@
   
   \s\MYtarot {The Hermit}
   \s\MYcr	{2}
+	\s\MYgamma {2}
 }
 
 \NEW{PC}{\cPrincess}{ 
@@ -368,7 +370,7 @@
   
   \s\MYblues	{\bHuman{}}
   \s\MYgreens	{\gDecking{}}
-  \s\MYabils	{\aInspiration{} \aRunAway{} \aUnnoticed{}}
+  \s\MYabils	{\aInspiration{} \aRunAway{} \aUnnoticed{} \aSwing{}}
   \s\MYitems	{}
   \s\MYwhites	{}
   \s\MYmems {\mExplosion{}}
@@ -394,6 +396,7 @@
   
   \s\MYtarot {The Emporer}
   \s\MYcr	{1}
+	\s\MYalpha	{2}
 } 
 
 \NEW{PC}{\cDiplomat}{
@@ -429,6 +432,7 @@
   
   \s\MYtarot {The Magician}
   \s\MYcr	{2}
+	\s\MYalpha	{2}
 }
 \NEW{PC}{\cPrince}{
    \s\MYname	{Jared}
