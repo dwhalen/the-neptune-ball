@@ -138,19 +138,19 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% The hotel rooms
-\NEW{Sign}{\sHotelRooms}{
-  \s\MYname	{Hotel Room Access}
-  \s\MYloc	{- 004}
-  \s\MYtext	{There are three ways to gain entrance to a hotel room:
-
-{\bf 1. } Possess the appropriate room key.
-
-{\bf 2. } You may hit the door with a {\bf CR of 5} or greater.
-
-{\bf 3. } Hack your way in. The lock has a difficulty level of {\bf 1} unless the room belongs to \cScientist{\MYname{}}, in which case the lock has a difficulty level of {\bf 2}.
-
-Once you have completed one of the above requirements, you may stand with your hand on the room sign for 30 seconds to enter the room. You may then freely stash items that are stashable, and take items that are in the room.}
-}
+%\NEW{Sign}{\sHotelRooms}{
+%  \s\MYname	{Hotel Room Access}
+%  \s\MYloc	{- 004}
+%  \s\MYtext	{There are three ways to gain entrance to a hotel room:
+%
+%{\bf 1. } Possess the appropriate room key.
+%
+%{\bf 2. } You may hit the door with a {\bf CR of 5} or greater.
+%
+%{\bf 3. } Hack your way in. The lock has a difficulty level of {\bf 1} unless the room belongs to, in which case the lock has a difficulty level of {\bf 2}.
+%
+%Once you have completed one of the above requirements, you may stand with your hand on the room sign for 30 seconds to enter the room. You may then freely stash items that are stashable, and take items that are in the room.}
+%}
  
 %Library
 \NEW{Sign}{\sMuseum}{
@@ -353,9 +353,42 @@ Following the completion of the ceremony, NPC pages will inform everyone in game
 \NEW{Sign}{\sBarnacles}{
   \s\MYname	{Barnacles}
   \s\MYloc	{Hallway off - 002}
-  \s\MYtext	{There is a growth of barnacles on the wall here. The servants have neglected to clear it off. {\bf You may spend 30 seconds scraping one off of the wall. If you do, take one item from the envelope below.}}
+  \s\MYtext	{There is a growth of barnacles on the wall here. The servants have neglected to clear it off. 
+  
+  {\bf You may spend 30 seconds scraping one off of the wall. If you do, take one item from the envelope below.}}
   \s\MYitems {\multi{5}{\iBarnacle{}}}
 } 
+
+%%Stairwell
+%\NEW{Sign}{\sOldMan}{
+%  \s\MYname	{The Palace Storyteller}
+%  \s\MYloc	{Stairwell}
+%  \s\MYtext	{There is an old merman floating here. {\bf He accosts all passersby with epic tales of powerful magical artifacts and impossible wishes.} No one seems surprised he is here, but most people aren't paying much attention to him. He seems sad but earnest.
+%  
+%  {\bf If you wish to listen to one of the old man's stories, you may lift this sign up and read what is on the sign below.}}
+%} 
+
+%\NEW{Sign}{\sOldManStory}{
+%  \s\MYname	{The Story of the Wishing Stone}
+%  \s\MYloc	{Stairwell}
+%  \s\MYtext	{The old merman is happy to have an audience. He spins a melancholy tale:
+%  \emph{Come closer young one, and I will tell you the story of \iWishingStone{\MYname}. This innocuous little stone has the power to grant wishes -- even the most impossible ones. There was once an old merman who had seen great sorrow in his life. He had lost his wife to \pPolio{}, and his children to the war. He was alone in his old age. He wished more than anything to see his family again.
+%  
+%  The old man therefore set out on a quest to find \iWishingStone{\MYname}. This stone, the old man knew, could allow him to see his family again.  He journeyed for many days and nights, asking at every house he encountered, but none could -- or would -- help him. They said ``Go away old man. Wishes are for the young.''
+%  
+%  Eventually the old man found his way to the Angola plain, where he knocked on the door of a young mermaid's house, to ask if she knew of \iWishingStone{\MYname}. The mermaid was sad and quiet, but she invited him in for a meal. The merman asked her why one so young and beautiful was sad. She explained that her dear brother had gone on a quest for \iWishingStone{\MYname}. He found it, but before he could make his wish, he was killed by another, jealous of her brother's success.
+%  
+%  The old merman was saddened to hear that even the young suffer such pain. He looked back at his own life, and thought that he had many good parts, and all was not dark. He therefore offered to wish for happiness in the mermaid's future, instead of seeing his own family again.
+%  
+%  The mermaid smiled then. She got up, and went to a chest in the corner of her house. She drew from within it, a humble stone. She brought it back to the old man, and said ``You are worthy.'' She then melted away into sea foam, and was carried off on the current.}
+%  
+%  As the storyteller's tale concludes, his eyes glitter mysteriously. ``Would you like to search for the \iWishingStone{\MYname}? Do you think you are worthy of it?''
+%  
+%  {\bf If you would like to search for \iWishingStone{}, take a greensheet from the packet below and follow the instructions}
+%  }
+%  \s\MYgreens {\multi{10}{\gWS{}}}
+%} 
+
 
 %Banquet hall
 \NEW{Sign}{\sBanquetHall}{
