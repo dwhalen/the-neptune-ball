@@ -672,7 +672,7 @@ Following the completion of the ceremony, NPC pages will inform everyone in game
 
 
 \NEW{SignSmall}{\sGlowingBrick}{
-  \s\MYname	{A Glowing Brick}
+  \s\MYname	{Glowing Brick}
   \s\MYloc	{}
   \s\MYtext	{A random brick is glowing.
   
@@ -686,9 +686,9 @@ Following the completion of the ceremony, NPC pages will inform everyone in game
   \s\MYloc	{-002}
   \s\MYtext	{This exquisitely decorated chest has a large, strange lock with no keyhole. Instead, the lock has four smooth stones arranged around a larger stone in the center, with a picture of a glowing shell on it. Touching one of the four stones causes words to appear faintly on the surface of the larger one, displaying a cryptic riddle...
 	
-	If you would like to try to open this chest, you will need to find the four answers associated with the different stones, in order - North, East, South, West. Each of the four stones will present a riddle. When you think you have solved the riddle, lift the respective sign. If your answer exactly matches the answer displayed, you have solved the puzzle and may move on to the next stone immediately. Otherwise, you must wait a certain amount of time before you can consider yourself to have solved it (your character is still puzzling out the solution in their head, so during this time, you cannot share the answer). This penalty starts at 15 minutes, and requires an additional 15 minutes for each time you have answered incorrectly in the past.
+	If you would like to try to open this chest, you will need to find the four answers associated with the different stones, in order - North, East, South, West. Each of the four stones will present a riddle. When you think you have solved the riddle, lift the respective sign. If your answer exactly matches the answer displayed, you have solved the puzzle and may move on to the next stone immediately. Otherwise, you must wait a certain amount of time before you can consider yourself to have solved it (your character is still puzzling out the solution in their head, so during this time, you cannot share the answer). This penalty starts at 15 minutes, and requires an additional 15 minutes for each time you have answered incorrectly in the past. Once you have solved a puzzle, you don't need to retain the answer (your character remembers it).
 	
-	When you know all four answers, you may attempt to open the chest with them. Solve the riddle on the lock, then lift the sign. If you are correct, you may open the chest by replacing this sign with the one below it and removing the item from the packet below. If you answered incorrectly, you must take a time penalty as if you had failed at one of the stone's riddles before opening the chest.}
+	When you know all four answers, you may attempt to open the chest with them. Solve the riddle on the large stone lock, then lift the sign. If you are correct, you may open the chest by replacing this sign with the one below it and removing the item from the packet below. If you answered incorrectly, you must take a time penalty as if you had failed at one of the stone's riddles before opening the chest.}
   \s\MYitems {\iGlowShell{}}
   }
 	
@@ -702,24 +702,217 @@ Following the completion of the ceremony, NPC pages will inform everyone in game
 \NEW{Sign}{\sNorthStoneCover}{
   \s\MYname	{1. North Stone}
   \s\MYloc	{-002}
-  \s\MYtext	{\emph{Read the sign for ''An ornate chest'' before attempting to interact with this sign.} \\ The words on the large stone direct you to a book on a nearby bookshelf that has suddenly started to glow. You open the book to a confusing set of shifting numbers. \\ If you would like to attempt to solve this riddle, lift only \emph{this} sign to find the sign marked ``North Stone Question'' and find the riddle below.}
+  \s\MYtext	{\emph{Read the sign for ''An ornate chest'' before attempting to interact with this sign.} \\
+	
+	The words on the large stone direct you to a book on a nearby bookshelf that has suddenly started to glow. You open the book to a confusing set of shifting numbers. \\
+	
+	f you would like to attempt to solve this riddle, lift only \emph{this} sign to find the sign marked ``North Stone Question'' and find the riddle below.}
   \s\MYitems {}
  }
 
 \NEW{Sign}{\sNorthStoneQuestion}{
   \s\MYname	{North Stone Question}
   \s\MYloc	{-002}
-  \s\MYtext	{Take a Sudoku puzzle from the envelope below and solve for the spaces marked with a red circle. Once you find the three numbers indicated, put them in numerical order and check your answer on the sign below this one. \\ \\
+  \s\MYtext	{Take a Sudoku puzzle from the envelope below and solve for the spaces marked with a red circle. Once you find the three numbers indicated, put them in numerical order and check your answer on the sign below this one. You will not need to solve the entire Sudoku to complete this puzzle.\\
+	
 	{\bf Sudoku rules} \\
-	The objective of a sudoku is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid contains all of the digits from 1 to 9 once. Each puzzle has a unique solution. You will not need to solve the entire Sudoku to complete this puzzle.}
+	The objective of a sudoku is to fill a 9 × 9 grid with digits so that each column, each row, and each of the nine 3 × 3 sub-grids that compose the grid contains all of the digits from 1 to 9 once. Each puzzle has a unique solution.}
   \s\MYitems {}
  }
 
 \NEW{Sign}{\sNorthStoneAnswer}{
   \s\MYname	{North Stone Answer}
   \s\MYloc	{-002}
-  \s\MYtext	{{\bf169} \\ \\
+  \s\MYtext	{{\bf 169} \\
 	You may move on to the riddle of the East stone. If you did not answer this question correctly, take a 15 minute penalty first.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sEastStoneCover}{
+  \s\MYname	{2. East Stone}
+  \s\MYloc	{-002}
+  \s\MYtext	{\emph{Do not attempt to interact with this sign until directed to do so.} \\
+	
+	The words on the large stone show a scene of the Gardens with a golden inscription of shifting letters. You should go there to find the next clue. \\
+	
+	If you would like to attempt to solve this riddle, lift the \sEastStoneHidden{} in the Gardens to find the sign marked ``East Stone Question'' and find the riddle below. Lift this sign when you are ready to check your answer.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sEastStoneHidden}{
+  \s\MYname	{E Sign}
+  \s\MYloc	{-032}
+  \s\MYtext	{\emph{Do not attempt to interact with this sign until directed to do so}}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sEastStoneQuestion}{
+  \s\MYname	{East Stone Question}
+  \s\MYloc	{-032}
+  \s\MYtext	{The lock has challenged you with a set of anagrams. The puzzle is transcribed on the sheet in the packet below.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sEastStoneRiddle}{
+  \s\MYname	{East Stone Riddle}
+  \s\MYloc	{-032}
+  \s\MYtext	{
+	
+	Anagram each of these words, putting the answer in the spaces. Instead of putting the letter where the number is, place it in the final answer slot that corresponds to it.
+	
+	Balm \\
+	\underline{\hspace{.5cm}}   1   \underline{\hspace{.5cm}} \underline{\hspace{.5cm}}
+	
+	Earth \\
+	2   \underline{\hspace{.5cm}} \underline{\hspace{.5cm}} \underline{\hspace{.5cm}} \underline{\hspace{.5cm}}
+	
+	Wolf \\
+	3   \underline{\hspace{.5cm}} \underline{\hspace{.5cm}} \underline{\hspace{.5cm}}
+	
+	Lump \\
+	\underline{\hspace{.5cm}}   4   \underline{\hspace{.5cm}} \underline{\hspace{.5cm}}
+	
+	Answers
+	1   2   3   4 \\
+	\underline{\hspace{.5cm}} \underline{\hspace{.5cm}} \underline{\hspace{.5cm}} \underline{\hspace{.5cm}}
+	
+	Now create a word from the answers above. This is your final answer.
+	
+	Final Answer
+	\underline{\hspace{.5cm}} \underline{\hspace{.5cm}} \underline{\hspace{.5cm}} \underline{\hspace{.5cm}}}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sEastStoneAnswer}{
+  \s\MYname	{East Stone Answer}
+  \s\MYloc	{-002}
+  \s\MYtext	{{\bf Half} \\
+	
+	You may move on to the riddle of the South stone. If you did not answer this question correctly, take a 15 minute penalty per question you have failed first.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sSouthStoneCover}{
+  \s\MYname	{3. South Stone}
+  \s\MYloc	{-002}
+  \s\MYtext	{\emph{Do not attempt to interact with this sign until directed to do so} \\
+	
+	The words on the large stone show a hazy magical rune that you can't quite make out. Out of the corner of your eye, you notice a small piece of the wall light up behind you. \\
+	
+	If you would like to attempt to solve this riddle, lift only \emph{this} sign to find the sign marked ``South Stone Question'' and find the riddle below.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sSouthStoneQuestion}{
+  \s\MYname	{South Stone Question}
+  \s\MYloc	{-002}
+  \s\MYtext	{You are searching for a magical rune hidden somewhere around the palace. The \sGlowingBrick{}s are the possible locations of the rune. When you find one, you may look inside the packet. When you find the rune inside {\bf do not remove it} - finding it is sufficient to solve the puzzle. When you have found the rune, you may move on to the riddle of the West stone.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sWestStoneCover}{
+  \s\MYname	{4. West Stone}
+  \s\MYloc	{-002}
+  \s\MYtext	{\emph{Do not attempt to interact with this sign until directed to do so} \\
+	
+	The images on the large stone show a set of paintings you recognize from the Banquet Hall. You're not quite sure what to make of it - maybe you're supposed to look for clues there? \\
+	
+	If you would like to attempt to solve this riddle, lift the ``W Sign'' in the Banquet Hall and solve the riddle below. Lift this sign when you want to check your answer.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sWestStoneHidden}{
+  \s\MYname	{W Sign}
+  \s\MYloc	{-013}
+  \s\MYtext	{\emph{Do not attempt to interact with this sign until directed to do so}}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sWestStoneQuestion}{
+  \s\MYname	{West Stone Question}
+  \s\MYloc	{-013}
+  \s\MYtext	{The lock has altered the paintings in this hall ever so slightly, hiding letters within. This takes the form of a word search in the packet below. Certain letters are highlighted on the word search. These are the possible letters that you may need to find. If a hidden word has a highlighted letter, that is one of the 5 letters that compose your answer. Once you have found 5 letters that are both highlighted and part of a hidden word, alphabetize them, and return to the chest to input your answer.
+	
+	Because this puzzle requires you to look closely at the paintings in order to solve it, you must stay within line of sight of the paintings in this room in order to work on the puzzle.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sPainting}{
+  \s\MYname	{Painting}
+  \s\MYloc	{-013}
+  \s\MYtext	{This is a beautiful painting by one of the most accomplished artists in \pAtlantis{}.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sWestStoneAnswer}{
+  \s\MYname	{West Stone Answer}
+  \s\MYloc	{-002}
+  \s\MYtext	{{\bf EGHIL} \\
+	
+	You may attempt to solve the lock on the large stone. If you did not answer this question correctly, take a 15 minute penalty per question you have failed first.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sLargeStoneCover}{
+  \s\MYname	{Large Stone Lock}
+  \s\MYloc	{-002}
+  \s\MYtext	{\emph{Do not attempt to interact with this sign until directed to do so} \\
+	
+	The large stone lock stands before you. You must use the answers you have gathered to open it - and claim your prize. \\
+	
+	If you would like to attempt to solve this riddle, lift only \emph{this} sign to find the sign marked ``Stone Lock Question'' and find the riddle below.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sLargeStoneQuestion}{
+  \s\MYname	{Stone Lock Question}
+  \s\MYloc	{-002}
+  \s\MYtext	{The large stone presents you with an intimidating logic puzzle. You must inscribe the answers from the previous puzzles into the four stones. The only problem is that you don't know which stones to put which answer into, and you don't know in which order to do it.
+	
+Put another way, there are three factors you are trying to match up: The lock, North, South, East, or West, the order, first, second, third, or fourth, and the answer type, letter, number, rune, and word.
+
+Your answer should be in this form:
+
+First: lock, answer type
+Second: lock, answer type
+Third: lock, answer type
+Fourth: lock, answer type
+
+You may find the blank paper provided in the packet below helpful.
+	
+{\bf Inscription}
+	
+The answer begins when the sun rises. 
+
+-----------------------------------------
+
+One must learn the letters of their tongue before they may form the words of a great speech. Look to the four corners of the earth to hone your skill, then reveal your answer when you are ready.
+
+Look to the natives of the West for sound council. They often warn that it is bad luck to begin with magical signs.
+
+The warriors of the East portray themselves as justice, whose word is law. Their words are not to be trusted, however, as their every moral has a price.
+
+Trust the priests of the North as they spread the holy word. They often advise that learning your letters is never the most important thing you can do - for to them, God comes first.
+
+The pirates of the South are ever a pushy lot. They say that their interests come first, but you can never trust their words.
+
+Though you have learned much of those around the world, you still do not have the key. Think on what you have seen as you lay down to rest - but keep your eyes and ears open.
+
+-----------------------------------------
+
+The answer ends when the sun sets.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sLargeStoneAnswer}{
+  \s\MYname	{Stone Lock Answer}
+  \s\MYloc	{-002}
+  \s\MYtext	{{\bf First: East Number \\
+	Second: South Letter \\
+	Third: North Word \\
+	Fourth: West Rune} \\
+	
+	You may change out the sign on the ornate chest and claim your prize. If you did not answer this question correctly, take a 15 minute penalty per question you have failed first.}
   \s\MYitems {}
  }
 
@@ -917,7 +1110,7 @@ Following the completion of the ceremony, NPC pages will inform everyone in game
 }
 
 \NEW{Sign}{\sCrest}{
-  \s\MYname	{The Magician's Guild Crest.}
+  \s\MYname	{The Magician's Guild Crest}
   \s\MYloc	{-015}
   \s\MYtext	{The Crest of the now dissolved Magician's Guild has been hung on the cave wall here.}
   \s\MYitems {}
