@@ -138,20 +138,175 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%% The hotel rooms
-%\NEW{Sign}{\sHotelRooms}{
-%  \s\MYname	{Hotel Room Access}
-%  \s\MYloc	{- 004}
-%  \s\MYtext	{There are three ways to gain entrance to a hotel room:
-%
-%{\bf 1. } Possess the appropriate room key.
-%
-%{\bf 2. } You may hit the door with a {\bf CR of 5} or greater.
-%
-%{\bf 3. } Hack your way in. The lock has a difficulty level of {\bf 1} unless the room belongs to, in which case the lock has a difficulty level of {\bf 2}.
-%
-%Once you have completed one of the above requirements, you may stand with your hand on the room sign for 30 seconds to enter the room. You may then freely stash items that are stashable, and take items that are in the room.}
-%}
+% The guest rooms
+\NEW{Sign}{\sGuestRooms}{
+  \s\MYname	{Bedrooms}
+  \s\MYloc	{}
+  \s\MYtext	{There are three ways to gain entrance to this bedroom:
+
+{\bf 1. } Be one of the people staying in this room. 
+
+{\bf 2. } Hit the door with a {\bf CR of 8} or greater.
+
+{\bf 3. } Pick the lock. This room has a lock difficulty of {\bf 2}. 
+
+Once you have completed one of the above requirements, put your hand on this sign for {\bf 2 minutes}. (If the room is yours, you may bypass the wait time as well.) Afterwards, you may lift the first sign and read what is underneath. This represents going into the room and digging through the person's papers for something useful.}
+}
+
+\NEW{Sign}{\sKing}{
+  \s\MYname	{King Triton's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{These are the private quarters of King Triton.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sKingPapers}{
+  \s\MYname	{King Triton's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sGeneral}{
+  \s\MYname	{General Gladius' Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{General \cGeneral{} and Lady \cQueen{} are staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sGeneralPapers}{
+  \s\MYname	{General Gladius' Papers / Lady Iris' Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+
+\NEW{Sign}{\sMorvyn}{
+  \s\MYname	{Morvyn's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cSlave{} and \cWitch{} are staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sMorvynPapers}{
+  \s\MYname	{Morvyn's Papers / Pearl's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPriest}{
+  \s\MYname	{Hermes' Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cPriest{} is staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPriestPapers}{
+  \s\MYname	{Hermes' Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPrincess}{
+  \s\MYname	{Adriana's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{This is \cPrincess{}'s private quarters.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPrincessPapers}{
+  \s\MYname	{Adriana's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sAriel}{
+  \s\MYname	{Ariel's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cAriel{} and \cWillow{} are staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sArielPapers}{
+  \s\MYname	{Ariel's Papers / Willow's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sManta}{
+  \s\MYname	{Sebastian's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{These are \cManta{}'s private quarters.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sMantaPaper}{
+  \s\MYname	{Sebastian's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sDiplomat}{
+  \s\MYname	{Mirage's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cDiplomat{} is staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sDiplomatPapers}{
+  \s\MYname	{Mirage's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPrince}{
+  \s\MYname	{Jared's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cPrince{} and \cBodyguard{} are staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPrincePapers}{
+  \s\MYname	{Jared's Papers / Valerie's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cPrince{} and \cBodyguard{} are staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sSpy}{
+  \s\MYname	{Damien's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cSpy{} is staying here.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sSpyPapers}{
+  \s\MYname	{Damien's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPlant}{
+  \s\MYname	{Claudia's Room}
+  \s\MYloc	{- 002}
+  \s\MYtext	{This is \cPlant{}'s private quarters.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sPlantPapers}{
+  \s\MYname	{Claudia's Papers}
+  \s\MYloc	{- 002}
+  \s\MYtext	{<Stuff>}
+  \s\MYitems {}
+}
  
 %Library
 \NEW{Sign}{\sMuseum}{
@@ -166,16 +321,30 @@
   \s\MYloc	{- 002}
   \s\MYtext	{There are many valuable items in the Royal Treasury. They chronicle the history of \pAtlantis{}n art. They are on display for all citizens to enjoy.
   
-  The acting ruler of \pAtlantis{} has the authority to dispense these items as rare and valuable gifts. This only happens once in a lifetime or so, since the items are so dear to \pAtlantis{}. It is a sign of highest honor to receive one.
+  The acting ruler of \pAtlantis{} has the authority to dispense these items as rare and valuable gifts. (The ruler may take the sign off the wall; it now becomes an in game item.) This only happens once in a lifetime or so, since the items are so dear to \pAtlantis{}. It is a sign of highest honor to receive one.
   
-  Some items may also be vulnerable to being broken or destroyed. It is a crime punishable by 10 years of service to destroy an artifact housed in the Royal Treasury.}
+  Some items may also be vulnerable to being broken or destroyed. It is a crime punishable by 10 years of hard labor to destroy or steal an artifact housed in the Royal Treasury.}
   \s\MYitems {}
 } 
 
-\NEW{Sign}{\sArtifactOne}{
-  \s\MYname	{Some Fancy Artifact}
+\NEW{Sign}{\sArtifactZero}{
+  \s\MYname	{An Empty Pedestal}
   \s\MYloc	{- 002}
-  \s\MYtext	{This Fancy Artifact is a national treasure of \pAtlantis{}. It is very valuable.}
+  \s\MYtext	{There is an empty pedestal here. There is no plaque. It is anyone's guess what it used to hold.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sArtifactZeroRestored}{
+  \s\MYname	{Athena's Music Box}
+  \s\MYloc	{- 002}
+  \s\MYtext	{\cAthena{}'s music box is a powerful magical artifact which plays a beautiful melody that helps to protect \pAtlantis{}.}
+  \s\MYitems {}
+}
+
+\NEW{Sign}{\sArtifactOne}{
+  \s\MYname	{The Bow of Artemis}
+  \s\MYloc	{- 002}
+  \s\MYtext	{This bow is rumored to have been used by Artemis, one of \pAtlantis{}'s greatest warriors. It is very valuable.}
   \s\MYitems {}
 } 
 
@@ -184,7 +353,7 @@
   \s\MYloc	{- 002}
   \s\MYtext	{This piece is an elaborate necklace. It is the crowning achievement of a famous \pAtlantis{}n jeweler, \cJeweler{}. It's centerpiece is a huge black pearl.
   
-  \emph{You can hit this piece with a CR 6+ attack to break it. If you do, take \iPearl{} from the envelope below and swap this sign with the one under it.}
+  \emph{You can hit this piece with a CR 8+ attack to break it. If you do, take \iPearl{} from the envelope below and swap this sign with the one under it.}
   }
   \s\MYitems {\iPearl{}}
 } 
@@ -199,9 +368,9 @@
 \NEW{Sign}{\sArtifactThree}{
   \s\MYname	{Cassandra's Mirror} %%
   \s\MYloc	{- 002}
-  \s\MYtext	{This is the pedestal display for \iScryingMirror{}.
+  \s\MYtext	{This is the pedestal display for \iScryingMirror{}. This artifact is rumored to show the future to those pure of heart.
   
-   \emph{You can hit this display with a CR 6+ attack to break the glass protecting the mirror. If you do, take \iScryingMirror{} from the envelope below and swap this sign with the one under it.}}
+   \emph{You can hit this display with a CR 8+ attack to break the glass protecting the mirror. If you do, take \iScryingMirror{} from the envelope below and swap this sign with the one under it.}}
 
   \s\MYitems {\iScryingMirror{}}
 } 
@@ -333,7 +502,7 @@ In order to pass power to the acting monarch:
 \begin{enumerate}
 \item The supreme justice must preside over the ceremony
 \item The eligibility of the candidate must be verified by at least 2 \pAtlantis{}ns (using the chart above).
-\item They need to take an oath to protect \pAtlantis{} in front of 3 witnesses (at least 1 must be \pAtlantis{}n).
+\item They need to take an oath to protect \pAtlantis{} in front of 3 witnesses in addition to the supreme justice (at least 1 must be \pAtlantis{}n).
 \end{enumerate}
 
 Following the completion of the ceremony, NPC pages will inform everyone in game of the change.
