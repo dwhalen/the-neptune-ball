@@ -608,6 +608,50 @@ Following the completion of the ceremony, NPC pages will inform everyone in game
   }
   \s\MYitems {}
 }
+
+% Glow Shell Plot Signs
+\NEW{Sign}{\sGlowShellStart}{
+  \s\MYname	{An ornate chest}
+  \s\MYloc	{-002}
+  \s\MYtext	{This exquisitely decorated chest has a large, strange lock with no keyhole. Instead, the lock has four smooth stones arranged around a larger stone in the center, with a picture of a glowing shell on it. Touching one of the four stones causes words to appear faintly on the surface of the larger one, displaying a cryptic riddle...
+	
+	If you would like to try to open this chest, you will need to find the four answers associated with the different stones, in order - North, East, South, West. Each of the four stones will present a riddle. When you think you have solved the riddle, lift the respective sign. If your answer exactly matches the answer displayed, you have solved the puzzle and may move on to the next stone immediately. Otherwise, you must wait a certain amount of time before you can consider yourself to have solved it (your character is still puzzling out the solution in their head, so during this time, you cannot share the answer). This penalty starts at 15 minutes, and requires an additional 15 minutes for each time you have answered incorrectly in the past.
+	
+	When you know all four answers, you may attempt to open the chest with them. Solve the riddle on the lock, then lift the sign. If you are correct, you may open the chest by replacing this sign with the one below it and removing the item from the packet below. If you answered incorrectly, you must take a time penalty as if you had failed at one of the stone's riddles before opening the chest.}
+  \s\MYitems {\iGlowShell{}}
+  }
+	
+\NEW{Sign}{\sGlowShellEnd}{
+  \s\MYname	{An open ornate chest}
+  \s\MYloc	{-002}
+  \s\MYtext	{This exquisitely decorated chest has a large, strange lock with no keyhole. The lock is open and whatever was inside is gone.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sNorthStoneCover}{
+  \s\MYname	{1. North Stone}
+  \s\MYloc	{-002}
+  \s\MYtext	{\emph{Read the sign for ''An ornate chest'' before attempting to interact with this sign.} \\ The words on the large stone direct you to a book on a nearby bookshelf that has suddenly started to glow. You open the book to a confusing set of shifting numbers. \\ If you would like to attempt to solve this riddle, lift only \emph{this} sign to find the sign marked ``North Stone Question'' and find the riddle below.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sNorthStoneQuestion}{
+  \s\MYname	{North Stone Question}
+  \s\MYloc	{-002}
+  \s\MYtext	{Take a Sudoku puzzle from the envelope below and solve for the spaces marked with a red circle. Once you find the three numbers indicated, put them in numerical order and check your answer on the sign below this one. \\ \\
+	{\bf Sudoku rules} \\
+	The objective of a sudoku is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid contains all of the digits from 1 to 9 once. Each puzzle has a unique solution. You will not need to solve the entire Sudoku to complete this puzzle.}
+  \s\MYitems {}
+ }
+
+\NEW{Sign}{\sNorthStoneAnswer}{
+  \s\MYname	{North Stone Answer}
+  \s\MYloc	{-002}
+  \s\MYtext	{{\bf169} \\ \\
+	You may move on to the riddle of the East stone. If you did not answer this question correctly, take a 15 minute penalty first.}
+  \s\MYitems {}
+ }
+
 %Dungeon
 \NEW{Sign}{\sDungeons}{
   \s\MYname	{The Dungeons}
