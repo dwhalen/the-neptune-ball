@@ -1,33 +1,30 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012) (format=pdflatex 2012.6.30)  10 MAY 2014 21:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  25 NOV 2014 21:37
 entering extended mode
- \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**carditem-PRINT.tex
-(./carditem-PRINT.tex
+**C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/carditem-PRINT.tex
 LaTeX2e <2011/06/27>
-Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, ge
-rman-x-2012-05-30, ngerman-x-2012-05-30, afrikaans, ancientgreek, ibycus, arabi
-c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
-h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
-h, french, friulan, galician, german, ngerman, swissgerman, monogreek, greek, h
-ungarian, icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, ma
-rathi, oriya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, 
-kurmanji, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk,
- polish, portuguese, romanian, romansh, russian, sanskrit, serbian, serbianc, s
-lovak, slovenian, spanish, swedish, turkish, turkmen, ukrainian, uppersorbian, 
-welsh, loaded.
-(/Users/dwhalen/Desktop/NeptuneBall/LaTeX/NeptuneBall.cls
-(/Users/dwhalen/Desktop/NeptuneBall/LaTeX/gametex.sty
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\LaTeX\NeptuneBall.cls
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\LaTeX\NeptuneBall_path.cls)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/gametex.sty
 Document Class: NeptuneBall 
   --- The Neptune Ball --- NA ---
 \@multicount=\count79
 \@mapbox=\box26
 \@@@unique=\count80
 \@jobcnt=\count81
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/article.cls
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/size10.clo
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count82
@@ -46,7 +43,7 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
   Packages: verbatim multicol comma multido alltt ulem
   Graphics Packages: pstricks graphicx lscape
   Symbol Packages: latexsym amssymb textcomp
-(/usr/local/texlive/2012/texmf-dist/tex/latex/pslatex/pslatex.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pslatex\pslatex.sty"
 Package: pslatex 1996/07/24 v1.2 pslatex emulation (DPC)
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 65.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -80,12 +77,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 75.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 75.
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/verbatim.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks14
 \verbatim@line=\toks15
 \verbatim@in@stream=\read1
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/tools/multicol.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count90
 \mult@box=\box27
@@ -132,21 +129,21 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \mult@nat@firstbox=\box51
 \colbreak@box=\box52
 \multicol@sort@counter=\count98
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/comma/comma.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\comma\comma.sty"
 Package: comma 1997/12/15 v1.2 Insert commas every three digits (DPC)
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/multido/multido.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multido\multido.sty"
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
-(/usr/local/texlive/2012/texmf-dist/tex/generic/multido/multido.tex  v1.42, 201
-0/05/14 <tvz>
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\multido\multido.tex"  v1.42, 20
+10/05/14 <tvz>
 \multido@count=\count99
 \multidocount=\count100
 \multido@stuff=\toks16
 )
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/base/alltt.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\alltt.sty"
 Package: alltt 1997/06/16 v2.0g defines alltt environment
-) (/usr/local/texlive/2012/texmf-dist/tex/generic/ulem/ulem.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
 \UL@box=\box53
 \UL@hyphenbox=\box54
 \UL@skip=\skip45
@@ -157,21 +154,21 @@ Package: alltt 1997/06/16 v2.0g defines alltt environment
 \ULC@box=\box55
 Package: ulem 2012/05/18
 \ULdepth=\dimen113
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/pstricks/pstricks.sty
-Package: pstricks 2011/10/31 v0.52 LaTeX wrapper for `PSTricks' (RN,HV)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/pstricks/pstricks.tex (/usr/loc
-al/texlive/2012/texmf-dist/tex/generic/xkeyval/pst-xkey.tex
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2012/08/24 v0.53 LaTeX wrapper for `PSTricks' (RN,HV)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.tex" ("C
+:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\pst-xkey.tex"
 File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/xkeyval/xkeyval.sty
-Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
 \XKV@toks=\toks18
 \XKV@tempa@toks=\toks19
 \XKV@depth=\count102
-File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/xkeyval/keyval.tex)))) (/usr/lo
-cal/texlive/2012/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.05, 201
-0/01/17 (hv)
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex")))) ("C:\Pr
+ogram Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex" `pst-fp' v0.
+05, 2010/01/17 (hv)
 \pstFP@xs=\count103
 \pstFP@xia=\count104
 \pstFP@xib=\count105
@@ -182,18 +179,36 @@ cal/texlive/2012/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.05, 201
 \pstFP@regs=\count110
 \pstFP@times=\count111
 )
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
+x"
+\pgfutil@everybye=\toks20
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.te
+x"
+\pgfkeys@pathtoks=\toks21
+\pgfkeys@temptoks=\toks22
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
+ode.tex"
+\pgfkeys@tmptoks=\toks23
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.te
+x"
+\pgffor@iter=\dimen114
+\pgffor@skip=\dimen115
+\pgffor@stack=\toks24
+\pgffor@toks=\toks25
+)
 \psLoopIndex=\count112
-`PSTricks' v2.29  <2012/06/04> (tvz)
-\pst@dima=\dimen114
-\pst@dimb=\dimen115
-\pst@dimc=\dimen116
-\pst@dimd=\dimen117
-\pst@dimg=\dimen118
-\pst@dimh=\dimen119
-\pst@dimm=\dimen120
-\pst@dimn=\dimen121
-\pst@dimo=\dimen122
-\pst@dimp=\dimen123
+`PSTricks' v2.35  <2012/12/21> (tvz)
+\pst@dima=\dimen116
+\pst@dimb=\dimen117
+\pst@dimc=\dimen118
+\pst@dimd=\dimen119
+\pst@dimg=\dimen120
+\pst@dimh=\dimen121
+\pst@dimm=\dimen122
+\pst@dimn=\dimen123
+\pst@dimo=\dimen124
+\pst@dimp=\dimen125
 \pst@hbox=\box56
 \pst@ibox=\box57
 \pst@boxg=\box58
@@ -208,40 +223,40 @@ cal/texlive/2012/texmf-dist/tex/generic/pstricks/pst-fp.tex `pst-fp' v0.05, 201
 \pst@cnto=\count121
 \pst@cntp=\count122
 \@zero=\count123
-\pst@toks=\toks20
-(/usr/local/texlive/2012/texmf-dist/tex/generic/pstricks/pstricks.con)
-\psunit=\dimen124
-\psxunit=\dimen125
-\psyunit=\dimen126
+\pst@toks=\toks26
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pstricks.con")
+\psunit=\dimen126
+\psxunit=\dimen127
+\psyunit=\dimen128
 \pst@C@@rType=\count124
-\pslinewidth=\dimen127
-\psk@startLW=\dimen128
-\psk@endLW=\dimen129
-\pst@customdefs=\toks21
-\pslinearc=\dimen130
-\pst@symbolStep=\dimen131
-\pst@symbolWidth=\dimen132
-\pst@symbolLinewidth=\dimen133
-\everypsbox=\toks22
-\psframesep=\dimen134
-\pslabelsep=\dimen135
-\pst@shift=\dimen136
+\pslinewidth=\dimen129
+\psk@startLW=\dimen130
+\psk@endLW=\dimen131
+\pst@customdefs=\toks27
+\pslinearc=\dimen132
+\pst@symbolStep=\dimen133
+\pst@symbolWidth=\dimen134
+\pst@symbolLinewidth=\dimen135
+\everypsbox=\toks28
+\psframesep=\dimen136
+\pslabelsep=\dimen137
+\pst@shift=\dimen138
 \theoverlaybox=\box59
 )
-File: pstricks.tex 2012/06/04 v2.29 `PSTricks' (tvz,hv)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/pstricks/pst-fp.tex)
-File: pst-fp.tex 2012/06/04 v2.29 `PST-fp' (hv)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/xcolor/xcolor.sty
+File: pstricks.tex 2012/12/21 v2.35 `PSTricks' (tvz,hv)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
+File: pst-fp.tex 2012/12/21 v2.35 `PST-fp' (hv)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/color.cfg
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-(/usr/local/texlive/2012/texmf-dist/tex/latex/pdftex-def/pdftex.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
-) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count125
@@ -255,36 +270,36 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-)) (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphicx.sty
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/graphics.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/graphics.cfg
-File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 )
-\Gin@req@height=\dimen137
-\Gin@req@width=\dimen138
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/graphics/lscape.sty
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/base/latexsym.sty
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latexsym.sty"
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
-) (/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amssymb.sty
-Package: amssymb 2009/06/22 v3.00
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
-\@emptytoks=\toks23
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks29
 \symAMSa=\mathgroup7
 \symAMSb=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
-(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
-)) (/usr/local/texlive/2012/texmf-dist/tex/latex/base/textcomp.sty
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -298,7 +313,7 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             Family '?' is the default used for unknown fonts.
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1enc.def
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 )
 LaTeX Info: Redefining \oldstylenums on input line 266.
@@ -364,32 +379,32 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-(/Users/dwhalen/Desktop/NeptuneBall/LaTeX/extraction.sty
-\!toks=\toks24
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/extraction.sty
+\!toks=\toks30
 )
-(/Users/dwhalen/Desktop/NeptuneBall/LaTeX/parsename.sty
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/parsename.sty
 \*count=\count126
 )
-(/Users/dwhalen/Desktop/NeptuneBall/LaTeX/datatypes.sty
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/datatypes.sty
 \:count=\count127
-\:toks=\toks25
+\:toks=\toks31
 )
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/blue-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/green-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/abil-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/combat-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/mem-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/item-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/white-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/notebook-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/money-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/sign-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/subowner-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/gm-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/char-LIST.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Lists/place-LIST.tex)
-No file ${NeptuneBall}/Lists/run1-LIST.tex.
-(/usr/local/texlive/2012/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/blue-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/green-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/abil-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/combat-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/mem-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/item-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/white-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/notebook-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/money-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/sign-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/subowner-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/gm-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/char-LIST.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/place-LIST.tex)
+No file "C:/Users/Acata/Desktop/Larps/the-neptune-ball"/Lists/run1-LIST.tex.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -400,36 +415,35 @@ No file ${NeptuneBall}/Lists/run1-LIST.tex.
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-(/Users/dwhalen/Desktop/NeptuneBall/LaTeX/cards.sty
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/cards.sty
 \front_card=\box60
 \back_card=\box61
 \front_box=\box62
 \back_box=\box63
 \front_page=\box64
 \back_page=\box65
-\scratch_dimen=\dimen139
+\scratch_dimen=\dimen141
 )
-\packetspace=\dimen140
-\packetwidth=\dimen141
+\packetspace=\dimen142
+\packetwidth=\dimen143
 \text@box=\box66
 \trig@box=\box67
-\text@ht=\dimen142
-\trig@ht=\dimen143
-\tot@ht=\dimen144
-\par@wd=\dimen145
-\bookwidth=\dimen146
-\bookheight=\dimen147
-\temp@dimen=\dimen148
+\text@ht=\dimen144
+\trig@ht=\dimen145
+\tot@ht=\dimen146
+\par@wd=\dimen147
+\bookwidth=\dimen148
+\bookheight=\dimen149
+\temp@dimen=\dimen150
 \temp@box=\box68
-\itemheight=\dimen149
-\itemwidth=\dimen150
-\whitespace=\dimen151
-\shadesep=\dimen152
-\temp@dimen=\dimen153
+\itemheight=\dimen151
+\itemwidth=\dimen152
+\whitespace=\dimen153
+\shadesep=\dimen154
+\temp@dimen=\dimen155
 \temp@box=\box69
- (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
 
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -440,7 +454,7 @@ LaTeX Font Info:    Checking defaults for OMS/pzccm/m/n on input line 3.
 LaTeX Font Info:    Try loading font information for OMS+pzccm on input line 3.
 
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omspzccm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omspzccm.fd"
 File: omspzccm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/pzccm.
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -451,80 +465,32 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ts1cmr.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 3.
 
-(/usr/local/texlive/2012/texmf-dist/tex/context/base/supp-pdf.mkii
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count128
-\scratchdimen=\dimen154
+\scratchdimen=\dimen156
 \scratchbox=\box70
 \nofMPsegments=\count129
 \nofMParguments=\count130
-\everyMPshowfont=\toks26
+\everyMPshowfont=\toks32
 \MPscratchCnt=\count131
-\MPscratchDim=\dimen155
+\MPscratchDim=\dimen157
 \MPnumerator=\count132
 \makeMPintoPDFobject=\count133
-\everyMPtoPDFconversion=\toks27
-) (/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+\everyMPtoPDFconversion=\toks33
 )
-
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-)
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
-Package ifpdf Info: pdfTeX in PDF mode is detected.
-)
-Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
-(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
-
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-))
-(/usr/local/texlive/2012/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
-
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-
-(/usr/local/texlive/2012/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
-Package etexcmds Info: Could not find \expanded.
-(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
-(etexcmds)             that some package has redefined \expanded.
-(etexcmds)             In the latter case, load this package earlier.
-)))
-Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 452.
-
-(/usr/local/texlive/2012/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 4.49997pt on input line 5.
-
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Princess.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Urchin.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Ariel.tex)
+ (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Princess.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Urchin.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Ariel.tex)
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
@@ -536,19 +502,19 @@ LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 LaTeX Font Info:    Try loading font information for OT1+ptmcm on input line 5.
 
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/ot1ptmcm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptmcm.fd"
 File: ot1ptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ptmcm.
 )
 LaTeX Font Info:    Try loading font information for OML+ptmcm on input line 5.
 
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omlptmcm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omlptmcm.fd"
 File: omlptmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ptmcm.
 )
 LaTeX Font Info:    Try loading font information for OMX+psycm on input line 5.
 
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/psnfss/omxpsycm.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omxpsycm.fd"
 File: omxpsycm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/psycm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
@@ -559,18 +525,18 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 5.
 LaTeX Font Info:    Try loading font information for U+lasy on input line 5.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/base/ulasy.fd
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Try loading font information for U+msa on input line 5.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 
-(/usr/local/texlive/2012/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 8.09995pt on input line 5.
@@ -583,224 +549,176 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 10.79993pt on input line 5.
 
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 8.09995pt on input line 5.
- [1
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!{/usr/local/texlive/2012/texmf-var/fonts/map/pdftex/upd
-map/pdftex.map}
-
-
-Non-PDF special ignored!
-Non-PDF special ignored!
-Non-PDF special ignored!
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Willow.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/KingsBrother.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/PacificanSpy.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Shapeshifter.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Athena.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/PacificanPrince.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Diplomat.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Slave.tex)
-! item card oversized
-! item card oversized
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/SeaWitch.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Manta.tex)
-(/Users/dwhalen/Desktop/NeptuneBall/Charsheets/King.tex) (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
 
 [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
-] [2] (/Users/dwhalen/Desktop/NeptuneBall/Charsheets/Bodyguard.tex)
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
 
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanSpy.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Shapeshifter.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Athena.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanPrince.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Diplomat.tex) (
+C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/KingsBrother.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
- [1
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Slave.tex)
+! item card oversized
+! item card oversized
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/SeaWitch.tex) (
+C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
- [1
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Manta.tex)
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
-] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Bodyguard.tex) 
+(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Willow.tex)
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
-
-] [2] (./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
-
- [1
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
 ] [2]
-(./carditem-PRINT.aux)
-\openout1 = `carditem-PRINT.aux'.
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
- [1
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
 
-] [2] (./carditem-PRINT.aux) ) 
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux)
+[1
+
+] [2]
+(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\carditem-PRINT.aux) )
+ 
 Here is how much of TeX's memory you used:
- 11933 strings out of 493488
- 127807 string characters out of 3141326
- 319046 words of memory out of 3000000
- 14957 multiletter control sequences out of 15000+200000
+ 12654 strings out of 493921
+ 143575 string characters out of 3144876
+ 343712 words of memory out of 3000000
+ 15680 multiletter control sequences out of 15000+200000
  25603 words of font info for 57 fonts, out of 3000000 for 9000
- 957 hyphenation exceptions out of 8191
- 43i,13n,45p,1412b,1668s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/local/texlive/2012/texmf-dist/fonts/enc/dvi
-ps/base/8r.enc}</usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhv
-b8a.pfb></usr/local/texlive/2012/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb
->
-Output written on carditem-PRINT.pdf (62 pages, 67430 bytes).
+ 841 hyphenation exceptions out of 8191
+ 48i,13n,53p,1502b,1666s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program 
+Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb>
+Output written on carditem-PRINT.pdf (66 pages, 88186 bytes).
 PDF statistics:
- 214 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
+ 223 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
