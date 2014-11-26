@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.3.23)  3 MAY 2014 14:18
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2013.7.16)  25 NOV 2014 20:19
 entering extended mode
-**C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/abil-PRINT.tex
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Production/abil-PRINT.tex
+**C:/Users/Jeremy/Desktop/NeptuneBall/Production/abil-PRINT.tex
+(C:/Users/Jeremy/Desktop/NeptuneBall/Production/abil-PRINT.tex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,9 +13,9 @@ german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\LaTeX\NeptuneBall.cls
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\LaTeX\NeptuneBall_path.cls)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/gametex.sty
+(C:\Users\Jeremy\Desktop\NeptuneBall\LaTeX\NeptuneBall.cls
+(C:\Users\Jeremy\Desktop\NeptuneBall\LaTeX\NeptuneBall_path.cls)
+(C:/Users/Jeremy/Desktop/NeptuneBall/LaTeX/gametex.sty
 Document Class: NeptuneBall 
   --- The Neptune Ball --- NA ---
 \@multicount=\count79
@@ -129,13 +129,13 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \mult@nat@firstbox=\box51
 \colbreak@box=\box52
 \multicol@sort@counter=\count98
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\comma\comma.sty"
+) (C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\latex\comma\comma.sty
 Package: comma 1997/12/15 v1.2 Insert commas every three digits (DPC)
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multido\multido.sty"
+) (C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\latex\multido\multido.sty
 Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\multido\multido.tex"  v1.42, 20
-10/05/14 <tvz>
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\generic\multido\multido.tex  v1
+.42, 2010/05/14 <tvz>
 \multido@count=\count99
 \multidocount=\count100
 \multido@stuff=\toks16
@@ -143,7 +143,7 @@ Package: multido 2004/05/17 package wrapper for PSTricks `multido.tex', (HV/RN)
 File: multido.tex 2010/05/14 v1.42 `multido' (tvz,hv)
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\alltt.sty"
 Package: alltt 1997/06/16 v2.0g defines alltt environment
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ulem\ulem.sty"
+) (C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\latex\ulem\ulem.sty
 \UL@box=\box53
 \UL@hyphenbox=\box54
 \UL@skip=\skip45
@@ -179,19 +179,21 @@ ogram Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex" `pst-fp' v0.
 \pstFP@regs=\count110
 \pstFP@times=\count111
 )
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.te
-x"
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-c
+ommon.tex
 \pgfutil@everybye=\toks20
-) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.te
-x"
+)
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.c
+ode.tex
 \pgfkeys@pathtoks=\toks21
 \pgfkeys@temptoks=\toks22
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.c
-ode.tex"
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfi
+ltered.code.tex
 \pgfkeys@tmptoks=\toks23
-)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.te
-x"
+))
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.co
+de.tex
 \pgffor@iter=\dimen114
 \pgffor@skip=\dimen115
 \pgffor@stack=\toks24
@@ -246,7 +248,7 @@ x"
 File: pstricks.tex 2012/12/21 v2.35 `PSTricks' (tvz,hv)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\pstricks\base\pst-fp.tex")
 File: pst-fp.tex 2012/12/21 v2.35 `PST-fp' (hv)
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
@@ -379,32 +381,32 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/extraction.sty
+(C:/Users/Jeremy/Desktop/NeptuneBall/LaTeX/extraction.sty
 \!toks=\toks30
 )
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/parsename.sty
+(C:/Users/Jeremy/Desktop/NeptuneBall/LaTeX/parsename.sty
 \*count=\count126
 )
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/datatypes.sty
+(C:/Users/Jeremy/Desktop/NeptuneBall/LaTeX/datatypes.sty
 \:count=\count127
 \:toks=\toks31
 )
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/blue-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/green-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/abil-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/combat-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/mem-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/item-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/white-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/notebook-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/money-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/sign-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/subowner-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/gm-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/char-LIST.tex)
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Lists/place-LIST.tex)
-No file "C:/Users/Acata/Desktop/Larps/the-neptune-ball"/Lists/run1-LIST.tex.
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/blue-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/green-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/abil-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/combat-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/mem-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/item-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/white-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/notebook-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/money-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/sign-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/subowner-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/gm-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/char-LIST.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Lists/place-LIST.tex)
+No file "C:/Users/Jeremy/Desktop/NeptuneBall"/Lists/run1-LIST.tex.
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
 \fancy@headwidth=\skip46
 \f@ncyO@elh=\skip47
 \f@ncyO@erh=\skip48
@@ -415,7 +417,7 @@ No file "C:/Users/Acata/Desktop/Larps/the-neptune-ball"/Lists/run1-LIST.tex.
 \f@ncyO@olf=\skip53
 \f@ncyO@orf=\skip54
 )
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/LaTeX/cards.sty
+(C:/Users/Jeremy/Desktop/NeptuneBall/LaTeX/cards.sty
 \front_card=\box60
 \back_card=\box61
 \front_box=\box62
@@ -434,7 +436,7 @@ No file "C:/Users/Acata/Desktop/Larps/the-neptune-ball"/Lists/run1-LIST.tex.
 \abtxt@wd=\dimen147
 \temp@dimen=\dimen148
 
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux)
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -463,7 +465,7 @@ LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 8.99994pt on input line 3.
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Jeremy\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count128
 \scratchdimen=\dimen149
@@ -479,7 +481,7 @@ LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 )
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 4.49997pt on input line 5.
- (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Princess.tex)
+ (C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Princess.tex)
 LaTeX Font Info:    Font shape `OT1/phv/m/n' will be
 (Font)              scaled to size 8.09995pt on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
@@ -529,17 +531,17 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 5.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux)
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <9> not available
 (Font)              Font shape `OT1/phv/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
 (Font)              scaled to size 8.09995pt on input line 5.
-
-[1
+ [1
 Non-PDF special ignored!
 Non-PDF special ignored!
 Non-PDF special ignored!
-Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+Non-PDF special ignored!{C:/Users/Jeremy/AppData/Local/MiKTeX/2.9/pdftex/config
+/pdftex.map}
 
 
 Non-PDF special ignored!
@@ -547,104 +549,101 @@ Non-PDF special ignored!
 Non-PDF special ignored!
 
 ] [2]
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Urchin.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Urchin.tex)
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <10> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 5.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 8.99994pt on input line 5.
 
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Ariel.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Diplomat.tex) (
-C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanSpy.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Shapeshifter.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Ariel.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/PacificanPrince.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Athena.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Willow.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/KingsBrother.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/PacificanSpy.tex)
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Shapeshifter.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Slave.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Athena.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/KingsBrother.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/SeaWitch.tex) (
-C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/PacificanPrince.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Diplomat.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Manta.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Slave.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/King.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Bodyguard.tex) 
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
-
-] [2] (C:/Users/Acata/Desktop/Larps/the-neptune-ball/Charsheets/Willow.tex)
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/SeaWitch.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux)
-[1
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
 
 ] [2]
-(C:\Users\Acata\Desktop\Larps\the-neptune-ball\Production\abil-PRINT.aux) ) 
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Manta.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/King.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+(C:/Users/Jeremy/Desktop/NeptuneBall/Charsheets/Bodyguard.tex)
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no ™ in font phvr7t!
+
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) [1
+
+] [2]
+(C:\Users\Jeremy\Desktop\NeptuneBall\Production\abil-PRINT.aux) ) 
 Here is how much of TeX's memory you used:
- 11312 strings out of 493921
- 131248 string characters out of 3144876
- 266786 words of memory out of 3000000
- 14363 multiletter control sequences out of 15000+200000
- 24224 words of font info for 55 fonts, out of 3000000 for 9000
+ 12572 strings out of 493921
+ 139738 string characters out of 3144873
+ 330243 words of memory out of 3000000
+ 15623 multiletter control sequences out of 15000+200000
+ 26110 words of font info for 57 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 46i,13n,53p,1466b,1843s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/
-Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2
-.9/fonts/type1/urw/symbol/usyr.pfb>
-Output written on abil-PRINT.pdf (40 pages, 66722 bytes).
+ 46i,13n,53p,1488b,1657s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9
+/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/urw/helvetic/uhvro8a.pfb><C:/Users/Jeremy/AppData/Roaming/MiKTeX/2.9/fonts
+/type1/urw/symbol/usyr.pfb>
+Output written on abil-PRINT.pdf (38 pages, 76385 bytes).
 PDF statistics:
- 145 PDF objects out of 1000 (max. 8388607)
+ 143 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
